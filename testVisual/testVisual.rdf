@@ -1,0 +1,573 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="#item_2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leisch</foaf:surname>
+                        <foaf:givenName>Friedrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Team</foaf:surname>
+                        <foaf:givenName>R Core</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1"/>
+        <dc:title>Sweave User Manual</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_1">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1/18389615.pdf"/>
+        <dc:title>18389615.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/6/02.0_pp_v_vi_Contents.pdf"/>
+        <dc:title>02.0_pp_v_vi_Contents.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8/04.0_pp_9_10_Getting_Started.pdf"/>
+        <dc:title>04.0_pp_9_10_Getting_Started.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11/05.0_pp_67_68_Visualizing_Tabular_Data.pdf"/>
+        <dc:title>05.0_pp_67_68_Visualizing_Tabular_Data.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/15/06.0_pp_191_192_Beyond_Tabular_Data.pdf"/>
+        <dc:title>06.0_pp_191_192_Beyond_Tabular_Data.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-1-108-62542-5%20978-1-108-49433-5%20978-1-108-71438-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magallanes Reyes</foaf:surname>
+                        <foaf:givenName>Jose Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_5"/>
+        <dc:title>Data Visualization for Social and Policy Research: A Step-by-Step Approach Using R and Python</dc:title>
+        <dcterms:abstract>All social and policy researchers need to synthesize data into a visual representation. Producing good visualizations combines creativity and technique. This book teaches the techniques and basics to produce a variety of visualizations, allowing readers to communicate data and analyses in a creative and effective way. Visuals for tables, time series, maps, text, and networks are carefully explained and organized, showing how to choose the right plot for the type of data being analysed and displayed. Examples are drawn from public policy, public safety, education, political tweets, and public health. The presentation proceeds step by step, starting from the basics, in the programming languages R and Python so that readers learn the coding skills while simultaneously becoming familiar with the advantages and disadvantages of each visualization. No prior knowledge of either Python or R is required. Code for all the visualizations are available from the book's website.</dcterms:abstract>
+        <dc:date>2022-03-31</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Data Visualization for Social and Policy Research</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781108625425/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-15 23:34:04</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781108625425</dc:description>
+        <dc:identifier>ISBN 978-1-108-62542-5 978-1-108-49433-5 978-1-108-71438-9</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/5/01.0_pp_i_iv_Frontmatter.pdf"/>
+        <dc:title>01.0_pp_i_iv_Frontmatter.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="https://www.cambridge.org/core/product/identifier/9781108625425/type/book">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magallanes Reyes</foaf:surname>
+                        <foaf:givenName>Jose Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_7"/>
+        <dc:title>Data Visualization for Social and Policy Research: A Step-by-Step Approach Using R and Python</dc:title>
+        <dcterms:abstract>All social and policy researchers need to synthesize data into a visual representation. Producing good visualizations combines creativity and technique. This book teaches the techniques and basics to produce a variety of visualizations, allowing readers to communicate data and analyses in a creative and effective way. Visuals for tables, time series, maps, text, and networks are carefully explained and organized, showing how to choose the right plot for the type of data being analysed and displayed. Examples are drawn from public policy, public safety, education, political tweets, and public health. The presentation proceeds step by step, starting from the basics, in the programming languages R and Python so that readers learn the coding skills while simultaneously becoming familiar with the advantages and disadvantages of each visualization. No prior knowledge of either Python or R is required. Code for all the visualizations are available from the book's website.</dcterms:abstract>
+        <dc:date>2022-03-31</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Data Visualization for Social and Policy Research</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781108625425/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-15 23:34:05</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781108625425</dc:description>
+        <dc:identifier>ISBN 978-1-108-62542-5 978-1-108-49433-5 978-1-108-71438-9</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/7/03.0_pp_1_8_Introduction.pdf"/>
+        <dc:title>03.0_pp_1_8_Introduction.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_22">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magallanes Reyes</foaf:surname>
+                        <foaf:givenName>Jose Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <dc:title>Data Visualization for Social and Policy Research: A Step-by-Step Approach Using R and Python</dc:title>
+        <dcterms:abstract>All social and policy researchers need to synthesize data into a visual representation. Producing good visualizations combines creativity and technique. This book teaches the techniques and basics to produce a variety of visualizations, allowing readers to communicate data and analyses in a creative and effective way. Visuals for tables, time series, maps, text, and networks are carefully explained and organized, showing how to choose the right plot for the type of data being analysed and displayed. Examples are drawn from public policy, public safety, education, political tweets, and public health. The presentation proceeds step by step, starting from the basics, in the programming languages R and Python so that readers learn the coding skills while simultaneously becoming familiar with the advantages and disadvantages of each visualization. No prior knowledge of either Python or R is required. Code for all the visualizations are available from the book's website.</dcterms:abstract>
+        <dc:date>2022-03-31</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Data Visualization for Social and Policy Research</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781108625425/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-15 23:34:07</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781108625425</dc:description>
+        <dc:identifier>ISBN 978-1-108-62542-5 978-1-108-49433-5 978-1-108-71438-9</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/9/04.1_pp_11_23_Data_for_Plotting.pdf"/>
+        <dc:title>04.1_pp_11_23_Data_for_Plotting.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_23">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magallanes Reyes</foaf:surname>
+                        <foaf:givenName>Jose Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_10"/>
+        <dc:title>Data Visualization for Social and Policy Research: A Step-by-Step Approach Using R and Python</dc:title>
+        <dcterms:abstract>All social and policy researchers need to synthesize data into a visual representation. Producing good visualizations combines creativity and technique. This book teaches the techniques and basics to produce a variety of visualizations, allowing readers to communicate data and analyses in a creative and effective way. Visuals for tables, time series, maps, text, and networks are carefully explained and organized, showing how to choose the right plot for the type of data being analysed and displayed. Examples are drawn from public policy, public safety, education, political tweets, and public health. The presentation proceeds step by step, starting from the basics, in the programming languages R and Python so that readers learn the coding skills while simultaneously becoming familiar with the advantages and disadvantages of each visualization. No prior knowledge of either Python or R is required. Code for all the visualizations are available from the book's website.</dcterms:abstract>
+        <dc:date>2022-03-31</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Data Visualization for Social and Policy Research</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781108625425/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-15 23:34:08</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781108625425</dc:description>
+        <dc:identifier>ISBN 978-1-108-62542-5 978-1-108-49433-5 978-1-108-71438-9</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/10/04.2_pp_24_66_Visualization_Basics.pdf"/>
+        <dc:title>04.2_pp_24_66_Visualization_Basics.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_24">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magallanes Reyes</foaf:surname>
+                        <foaf:givenName>Jose Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_12"/>
+        <dc:title>Data Visualization for Social and Policy Research: A Step-by-Step Approach Using R and Python</dc:title>
+        <dcterms:abstract>All social and policy researchers need to synthesize data into a visual representation. Producing good visualizations combines creativity and technique. This book teaches the techniques and basics to produce a variety of visualizations, allowing readers to communicate data and analyses in a creative and effective way. Visuals for tables, time series, maps, text, and networks are carefully explained and organized, showing how to choose the right plot for the type of data being analysed and displayed. Examples are drawn from public policy, public safety, education, political tweets, and public health. The presentation proceeds step by step, starting from the basics, in the programming languages R and Python so that readers learn the coding skills while simultaneously becoming familiar with the advantages and disadvantages of each visualization. No prior knowledge of either Python or R is required. Code for all the visualizations are available from the book's website.</dcterms:abstract>
+        <dc:date>2022-03-31</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Data Visualization for Social and Policy Research</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781108625425/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-15 23:34:09</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781108625425</dc:description>
+        <dc:identifier>ISBN 978-1-108-62542-5 978-1-108-49433-5 978-1-108-71438-9</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/12/05.1_pp_69_109_Insights_from_ONE_Variable.pdf"/>
+        <dc:title>05.1_pp_69_109_Insights_from_ONE_Variable.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_25">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magallanes Reyes</foaf:surname>
+                        <foaf:givenName>Jose Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <dc:title>Data Visualization for Social and Policy Research: A Step-by-Step Approach Using R and Python</dc:title>
+        <dcterms:abstract>All social and policy researchers need to synthesize data into a visual representation. Producing good visualizations combines creativity and technique. This book teaches the techniques and basics to produce a variety of visualizations, allowing readers to communicate data and analyses in a creative and effective way. Visuals for tables, time series, maps, text, and networks are carefully explained and organized, showing how to choose the right plot for the type of data being analysed and displayed. Examples are drawn from public policy, public safety, education, political tweets, and public health. The presentation proceeds step by step, starting from the basics, in the programming languages R and Python so that readers learn the coding skills while simultaneously becoming familiar with the advantages and disadvantages of each visualization. No prior knowledge of either Python or R is required. Code for all the visualizations are available from the book's website.</dcterms:abstract>
+        <dc:date>2022-03-31</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Data Visualization for Social and Policy Research</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781108625425/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-15 23:34:10</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781108625425</dc:description>
+        <dc:identifier>ISBN 978-1-108-62542-5 978-1-108-49433-5 978-1-108-71438-9</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/13/05.2_pp_110_166_Insights_from_TWO_Variables.pdf"/>
+        <dc:title>05.2_pp_110_166_Insights_from_TWO_Variables.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_26">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magallanes Reyes</foaf:surname>
+                        <foaf:givenName>Jose Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_14"/>
+        <dc:title>Data Visualization for Social and Policy Research: A Step-by-Step Approach Using R and Python</dc:title>
+        <dcterms:abstract>All social and policy researchers need to synthesize data into a visual representation. Producing good visualizations combines creativity and technique. This book teaches the techniques and basics to produce a variety of visualizations, allowing readers to communicate data and analyses in a creative and effective way. Visuals for tables, time series, maps, text, and networks are carefully explained and organized, showing how to choose the right plot for the type of data being analysed and displayed. Examples are drawn from public policy, public safety, education, political tweets, and public health. The presentation proceeds step by step, starting from the basics, in the programming languages R and Python so that readers learn the coding skills while simultaneously becoming familiar with the advantages and disadvantages of each visualization. No prior knowledge of either Python or R is required. Code for all the visualizations are available from the book's website.</dcterms:abstract>
+        <dc:date>2022-03-31</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Data Visualization for Social and Policy Research</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781108625425/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-15 23:34:11</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781108625425</dc:description>
+        <dc:identifier>ISBN 978-1-108-62542-5 978-1-108-49433-5 978-1-108-71438-9</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_14">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/14/05.3_pp_167_190_Insights_from_THREE_or_More_Variables.pdf"/>
+        <dc:title>05.3_pp_167_190_Insights_from_THREE_or_More_Variables.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_27">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magallanes Reyes</foaf:surname>
+                        <foaf:givenName>Jose Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_16"/>
+        <dc:title>Data Visualization for Social and Policy Research: A Step-by-Step Approach Using R and Python</dc:title>
+        <dcterms:abstract>All social and policy researchers need to synthesize data into a visual representation. Producing good visualizations combines creativity and technique. This book teaches the techniques and basics to produce a variety of visualizations, allowing readers to communicate data and analyses in a creative and effective way. Visuals for tables, time series, maps, text, and networks are carefully explained and organized, showing how to choose the right plot for the type of data being analysed and displayed. Examples are drawn from public policy, public safety, education, political tweets, and public health. The presentation proceeds step by step, starting from the basics, in the programming languages R and Python so that readers learn the coding skills while simultaneously becoming familiar with the advantages and disadvantages of each visualization. No prior knowledge of either Python or R is required. Code for all the visualizations are available from the book's website.</dcterms:abstract>
+        <dc:date>2022-03-31</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Data Visualization for Social and Policy Research</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781108625425/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-15 23:34:12</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781108625425</dc:description>
+        <dc:identifier>ISBN 978-1-108-62542-5 978-1-108-49433-5 978-1-108-71438-9</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_16">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/16/06.1_pp_193_235_Geospatial_Data.pdf"/>
+        <dc:title>06.1_pp_193_235_Geospatial_Data.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_28">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magallanes Reyes</foaf:surname>
+                        <foaf:givenName>Jose Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_17"/>
+        <dc:title>Data Visualization for Social and Policy Research: A Step-by-Step Approach Using R and Python</dc:title>
+        <dcterms:abstract>All social and policy researchers need to synthesize data into a visual representation. Producing good visualizations combines creativity and technique. This book teaches the techniques and basics to produce a variety of visualizations, allowing readers to communicate data and analyses in a creative and effective way. Visuals for tables, time series, maps, text, and networks are carefully explained and organized, showing how to choose the right plot for the type of data being analysed and displayed. Examples are drawn from public policy, public safety, education, political tweets, and public health. The presentation proceeds step by step, starting from the basics, in the programming languages R and Python so that readers learn the coding skills while simultaneously becoming familiar with the advantages and disadvantages of each visualization. No prior knowledge of either Python or R is required. Code for all the visualizations are available from the book's website.</dcterms:abstract>
+        <dc:date>2022-03-31</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Data Visualization for Social and Policy Research</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781108625425/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-15 23:34:14</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781108625425</dc:description>
+        <dc:identifier>ISBN 978-1-108-62542-5 978-1-108-49433-5 978-1-108-71438-9</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17/06.2_pp_236_275_Data_from_the_Social_Network.pdf"/>
+        <dc:title>06.2_pp_236_275_Data_from_the_Social_Network.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/0803.0476">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1742-5468"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blondel</foaf:surname>
+                        <foaf:givenName>Vincent D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guillaume</foaf:surname>
+                        <foaf:givenName>Jean-Loup</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lambiotte</foaf:surname>
+                        <foaf:givenName>Renaud</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lefebvre</foaf:surname>
+                        <foaf:givenName>Etienne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_30"/>
+        <link:link rdf:resource="#item_18"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computers and Society</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Data Structures and Algorithms</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Condensed Matter - Statistical Mechanics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Physics - Physics and Society</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Fast unfolding of communities in large networks</dc:title>
+        <dcterms:abstract>We propose a simple method to extract the community structure of large networks. Our method is a heuristic method that is based on modularity optimization. It is shown to outperform all other known community detection method in terms of computation time. Moreover, the quality of the communities detected is very good, as measured by the so-called modularity. This is shown first by identifying language communities in a Belgian mobile phone network of 2.6 million customers and by analyzing a web graph of 118 million nodes and more than one billion links. The accuracy of our algorithm is also verified on ad-hoc modular networks. .</dcterms:abstract>
+        <dc:date>2008-10-09</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/0803.0476</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-15 23:34:16</dcterms:dateSubmitted>
+        <dc:description>arXiv:0803.0476 [cond-mat, physics:physics]</dc:description>
+        <bib:pages>P10008</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1742-5468">
+        <prism:volume>2008</prism:volume>
+        <dc:title>Journal of Statistical Mechanics: Theory and Experiment</dc:title>
+        <dc:identifier>DOI 10.1088/1742-5468/2008/10/P10008</dc:identifier>
+        <prism:number>10</prism:number>
+        <dcterms:alternative>J. Stat. Mech.</dcterms:alternative>
+        <dc:identifier>ISSN 1742-5468</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_30">
+        <rdf:value>Comment: 6 pages, 5 figures, 1 table; new version with new figures in order to clarify our method, where we look more carefully at the role played by the ordering of the nodes and where we compare our method with that of Wakita and Tsurumi</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/18/07.0_pp_276_281_Bibliography.pdf"/>
+        <dc:title>07.0_pp_276_281_Bibliography.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="#item_31">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magallanes Reyes</foaf:surname>
+                        <foaf:givenName>Jose Manuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_19"/>
+        <dc:title>Data Visualization for Social and Policy Research: A Step-by-Step Approach Using R and Python</dc:title>
+        <dcterms:abstract>All social and policy researchers need to synthesize data into a visual representation. Producing good visualizations combines creativity and technique. This book teaches the techniques and basics to produce a variety of visualizations, allowing readers to communicate data and analyses in a creative and effective way. Visuals for tables, time series, maps, text, and networks are carefully explained and organized, showing how to choose the right plot for the type of data being analysed and displayed. Examples are drawn from public policy, public safety, education, political tweets, and public health. The presentation proceeds step by step, starting from the basics, in the programming languages R and Python so that readers learn the coding skills while simultaneously becoming familiar with the advantages and disadvantages of each visualization. No prior knowledge of either Python or R is required. Code for all the visualizations are available from the book's website.</dcterms:abstract>
+        <dc:date>2022-03-31</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Data Visualization for Social and Policy Research</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/9781108625425/type/book</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-15 23:34:17</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1017/9781108625425</dc:description>
+        <dc:identifier>ISBN 978-1-108-62542-5 978-1-108-49433-5 978-1-108-71438-9</dc:identifier>
+        <prism:edition>1</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_19">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/19/08.0_pp_282_286_Index.pdf"/>
+        <dc:title>08.0_pp_282_286_Index.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_32">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/32/Authors and Citation • flexdashboard.html"/>
+        <dc:title>Authors and Citation • flexdashboard.html</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
